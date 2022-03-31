@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there, I'm Chun Mun!  </br>
-🎓 A Final Year Bachelors in University of Wollongong, Business Information Systems <br>
+🎓 A Final Year Undergraduate at University of Wollongong, Bachelors in Business Information Systems <br>
 👀 I’m interested in fullstack web development and education <br>
-🌱 I’ve onboarded with Singapore Coding Club as a part-time programming tutor <br>
+💻 I’ve onboarded with Singapore Coding Club as a part-time programming tutor <br>
 ✉️ Drop me an email at chunmun_loh@outlook.com !<br>
 🤝🏻 Connect with me on Linkedin &nbsp; <a href="https://linkedin.com/in/lcm98"><img src="https://img.shields.io/badge/-Loh%20Chun%20Mun-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
