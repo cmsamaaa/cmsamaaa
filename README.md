@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there, I'm Chun Mun!  </br>
-🎓 A Final Year Undergraduate at University of Wollongong, Bachelors in Business Information Systems <br>
+🎓 Undergraduate at University of Wollongong, Bachelors in Business Information Systems <br>
 👀 I’m interested in fullstack web development and education <br>
 💻 I’ve onboarded with Singapore Coding Club as a part-time programming tutor <br>
 ✉️ Drop me an email at chunmun_loh@outlook.com !<br>
