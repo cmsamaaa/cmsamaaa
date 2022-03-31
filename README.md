@@ -1,10 +1,17 @@
-## Hello there, I'm Chun Mun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>
-🎓 Bachelors in Business Information Systems, University of Wollongong <br/>
-👀 Keen interest in Full-stack Web Development and Education <br>
-💻 Part-time coding tutor since 2019, onboarded with Singapore Coding Club since Feb 2022 <br/>
-✉️ Drop me an email at chunmun_loh@outlook.com ! <br/>
-🤝🏻 Connect with me on Linkedin &nbsp; <a href="https://linkedin.com/in/lcm98" target="_blank"> <br/>
+## Hello there, I'm Chun Mun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+🎓 Bachelors in Business Information Systems, University of Wollongong
+
+👀 Keen interest in Full-stack Web Development and Education
+
+💻 Part-time coding tutor since 2019, onboarded with Singapore Coding Club since Feb 2022
+
+✉️ Drop me an email at chunmun_loh@outlook.com !
+
+🤝🏻 Connect with me on Linkedin &nbsp; <a href="https://linkedin.com/in/lcm98" target="_blank">
   <img src="https://img.shields.io/badge/Loh%20Chun%20Mun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+
 
 ### Languages, Frameworks and Tools:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
