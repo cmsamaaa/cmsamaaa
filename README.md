@@ -3,7 +3,7 @@
 👀 I’m interested in Full-stack Web Development and Education <br>
 💻 I've been a part-time coding tutor since 2019, and onboarded with Singapore Coding Club since Feb 2022 <br>
 ✉️ Drop me an email at chunmun_loh@outlook.com !<br>
-🤝🏻 Connect with me on Linkedin &nbsp; <a href="https://linkedin.com/in/lcm98" target="_blank"><img src="https://img.shields.io/badge/-Loh%20Chun%20Mun-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+🤝🏻 Connect with me on Linkedin &nbsp; <a href="https://linkedin.com/in/lcm98" target="_blank"><img src="https://img.shields.io/badge/Loh%20Chun%20Mun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ### Languages, Frameworks and Tools:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
