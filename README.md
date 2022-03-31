@@ -1,6 +1,6 @@
 ## Hello there, I'm Chun Mun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🎓 Bachelors in Business Information Systems, University of Wollongong
+🎓 Undergraduate Bachelors in Business Information Systems, University of Wollongong
 
 👀 Keen interest in Full-stack Web Development and Education
 
