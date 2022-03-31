@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there, I'm Chun Mun!  <br/>
+## Hello there, I'm Chun Mun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>
 🎓 Bachelors in Business Information Systems, University of Wollongong <br/>
 👀 Keen interest in Full-stack Web Development and Education <br>
 💻 Part-time coding tutor since 2019, onboarded with Singapore Coding Club since Feb 2022 <br/>
