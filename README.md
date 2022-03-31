@@ -2,7 +2,7 @@
 
 🎓 Undergraduate Bachelors in Business Information Systems, University of Wollongong
 
-👀 Keen interest in Full-stack Web Development and Education
+👀 Keen interest in Full-stack Web/Software Development and Education
 
 💻 Part-time coding tutor since 2019, onboarded with Singapore Coding Club since Feb 2022
 
