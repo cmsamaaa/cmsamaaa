@@ -42,4 +42,4 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) 
-![CodeBlocks](https://img.shields.io/badge/Codeblocks-90E59A.svg?style=for-the-badge&logo=codeblocks%2B%2B&logoColor=black) 
+![CodeBlocks](https://img.shields.io/badge/pycharm-3DDC84?style=for-the-badge&logo=pycharm&logoColor=white) 
