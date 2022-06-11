@@ -1,4 +1,4 @@
-## Hello there, I'm Chun Mun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello there, I'm Chun Mun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 🎓 Undergraduate Bachelors in Business Information Systems, University of Wollongong
 
