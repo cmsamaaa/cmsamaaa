@@ -8,7 +8,7 @@
 
 👀 Keen interest in Full-stack Web/Software Development and Education
 
-💻 Part-time coding tutor since 2019, onboarded with Singapore Coding Club since Feb 2022
+💻 Part-time coding tutor since 2019, engaged on freelance basis with Singapore Coding Club from Feb to June 2022
 
 ✉️ Drop me an email at chunmun_loh@outlook.com !
 
