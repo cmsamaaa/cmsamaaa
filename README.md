@@ -10,9 +10,10 @@
 
 🤝🏻 Connect with me on Linkedin &nbsp; <a href="https://linkedin.com/in/lcm98" target="_blank">
   <img src="https://img.shields.io/badge/Loh%20Chun%20Mun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=cmsamaaa&show_icons=true)
-
+<img src="https://komarev.com/ghpvc/?username=cmsamaaa" />
 <hr>
 
 ### Languages & Frameworks
@@ -53,7 +54,3 @@
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
-
-<hr>
-
-<img src="https://komarev.com/ghpvc/?username=cmsamaaa" />
