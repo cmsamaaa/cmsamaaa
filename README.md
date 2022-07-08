@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=consolas&center=true&duration=3000&color=5194f0&lines=I%27m%20a%20Fullstack%20Developer,;%20a%20Programming%20Tutor,;%20a%20Freelancer,;and%20a%20Lifelong%20Learner!">
 </p>
+
 🎓 Undergraduate Bachelors in Business Information Systems, University of Wollongong
 
 👀 Keen interest in Full-stack Web/Software Development and Education
