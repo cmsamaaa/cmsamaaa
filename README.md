@@ -17,10 +17,22 @@
   <img src="https://img.shields.io/badge/Loh%20Chun%20Mun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=cmsamaaa&show_icons=true)&nbsp;&nbsp;&nbsp;
-[![Discord Presence](https://lanyard.cnrad.dev/api/156065550894628864)](https://discord.com/users/156065550894628864)
+<section>
+  <div>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=cmsamaaa&show_icons=true&count_private=true&theme=github_dark" alt="github-stats" />
+    </p>
+  </div>
+  <div>
+    <p align="center">
+      <a href="https://discord.com/users/156065550894628864"><img src="https://lanyard.cnrad.dev/api/156065550894628864" alt="Discord" /></a>
+    </p>
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=cmsamaaa" />
+    </p>
+  </div>
+</section>
 
-<img src="https://komarev.com/ghpvc/?username=cmsamaaa" />
 <hr>
 
 ### Languages & Frameworks
