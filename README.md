@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/Loh%20Chun%20Mun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=cmsamaaa&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=cmsamaaa&show_icons=true)&nbsp;&nbsp;&nbsp;
+[![Discord Presence](https://lanyard.cnrad.dev/api/156065550894628864)](https://discord.com/users/156065550894628864)
+
 <img src="https://komarev.com/ghpvc/?username=cmsamaaa" />
 <hr>
 
@@ -58,4 +60,4 @@
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
