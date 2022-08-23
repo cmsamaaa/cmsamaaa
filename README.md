@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=consolas&center=true&duration=3000&color=5194f0&lines=I%27m%20a%20Fullstack%20Developer,;%20a%20Programming%20Tutor,;%20a%20Freelancer,;and%20a%20Lifelong%20Learner!">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cmsamaaa" />
+</p>
 
 🎓 Undergraduate Bachelors in Business Information Systems, University of Wollongong
 
@@ -23,17 +26,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=cmsamaaa&show_icons=true&count_private=true&theme=github_dark" alt="github-stats" />
     </p>
   </div>
-  <div>
-    <p align="center">
-      <a href="https://discord.com/users/156065550894628864"><img src="https://lanyard.cnrad.dev/api/156065550894628864" alt="Discord" /></a>
-    </p>
-    <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=cmsamaaa" />
-    </p>
-  </div>
 </section>
 
 <hr>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmsamaaa&layout=compact&count_private=false&theme=github_dark)](https://github.com/cmsamaaa/github-readme-stats) -->
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white) 
@@ -68,8 +65,23 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) 
-  
-### Version Control
+ 
+### DevOps & Version Control
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+<hr>
+
+<section>
+  <div>
+    <p align="center">
+      <a href="https://discord.com/users/156065550894628864"><img src="https://lanyard.cnrad.dev/api/156065550894628864" alt="Discord" /></a>
+    </p>
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=cmsamaaa" />
+    </p>
+  </div>
+</section>
