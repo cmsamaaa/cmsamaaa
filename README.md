@@ -23,7 +23,7 @@
 <section>
   <div>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=cmsamaaa&show_icons=true&count_private=true&theme=github_dark" alt="github-stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cmsamaaa&show_icons=true&count_private=true&theme=github_dark" alt="github-stats" />
     </p>
   </div>
 </section>
