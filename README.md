@@ -8,11 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=cmsamaaa" />
 </p>
 
-🎓 Undergraduate Bachelors in Business Information Systems, University of Wollongong
+🎓 Bachelors in Business Information Systems, University of Wollongong
 
 👀 Keen interest in Full-stack Web/Software Development and Education
 
-💻 Part-time coding tutor since 2019, engaged on freelance basis with Singapore Coding Club from Feb to June 2022
+💻 Full-time Software Engineer. Freelance coding tutor since 2019; Singapore Coding Club between Feb to June 2022
 
 ✉️ Drop me an email at chunmun_loh@outlook.com !
 
