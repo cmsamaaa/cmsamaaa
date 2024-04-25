@@ -12,7 +12,9 @@
 
 👀 Keen interest in Full-stack Web/Software Development and Education
 
-💻 Software Engineer @ QCP. Freelance coding tutor since 2019; Singapore Coding Club between Feb to June 2022
+💻 Software Engineer @ QCP
+
+📖 Freelance coding tutor since 2019; Singapore Coding Club between Feb to June 2022
 
 ✉️ Drop me an email at chunmun_loh@outlook.com !
 
