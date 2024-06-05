@@ -16,7 +16,7 @@
 
 📖 Freelance coding tutor since 2019; Singapore Coding Club between Feb to June 2022
 
-✉️ Drop me an email at chunmun_loh@outlook.com !
+✉️ Drop me an email at chunmun.loh@gmail.com !
 
 🤝🏻 Connect with me on Linkedin &nbsp; <a href="https://linkedin.com/in/lcm98" target="_blank">
 <img src="https://img.shields.io/badge/Loh%20Chun%20Mun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
